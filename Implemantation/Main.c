@@ -9,10 +9,23 @@ extern int gameover;
 
 void main()
 { 
-	int n1,n2;
+	int I;
 
-	
-	boundary();
+	system("cls");
+
+	printf("**************************************");
+	printf("\n**								**");
+	printf("\n**		  WELCOME	       	    **");
+	printf("\n**			 TO			        **");
+	printf("\n**	    THIS SNAKE GAME!!	    **");
+	printf("\n**					 		    **");
+	printf("\n**								**");
+	printf("\n**								**");
+	printf("\n**************************************");
+	scanf("\n\n\nPress 1 to Start the Game else 2%d",I);
+	if(I==1)
+	{
+	set();
 
 	while (!gameover) {
 
@@ -20,5 +33,9 @@ void main()
 		draw(); 
 		input();
 		logic();
+	}
+	}
+	else{
+		return 0;
 	}
 }
