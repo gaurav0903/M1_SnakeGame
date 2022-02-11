@@ -1,6 +1,6 @@
 #ifndef __GAME_H__
 #define __GAME_H__
-void boundary();
+void set();
 void draw();
 void input();
 void logic();
