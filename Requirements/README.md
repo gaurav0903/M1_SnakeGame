@@ -33,14 +33,14 @@ The fruits are generated randomly.
 Then increase the score whenever the snake eats a fruit.
 
 The user-defined functions created in this program are-
-Draw(),boundary(),Input(),Logic().
+Draw(),set(),Input(),Logic().
 ## Low level Requirements
 
 rand(): This rand() function is use to return a random value whenever its called.
 
 Draw(): This function is responsible to build the boundary within which the game will be played.
 
-boundary(): This function is use to write the code to generate the fruit within the boundary using rand() function.
+set(): This function is use to write the code to generate the fruit within the boundary using rand() function.
 
 Input(): In this function, the programmer writes the code to take the input from the keyboard (W, A, S, D, X keys).
 
