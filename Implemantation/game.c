@@ -7,7 +7,7 @@ static int gameover;
 int score;
 int x, y, a, b, flag;
 
-void boundary()
+void set()
 {
 	gameover = 0;
 	x = h/ 2;
