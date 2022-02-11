@@ -22,7 +22,8 @@ void main()
 	printf("\n**								**");
 	printf("\n**								**");
 	printf("\n**************************************");
-	scanf("\n\n\nPress 1 to Start the Game else 2%d",I);
+	printf("\n\n\nPress 1 to Start the Game else 2");
+	scanf("%d", &I);
 	if(I==1)
 	{
 	set();
