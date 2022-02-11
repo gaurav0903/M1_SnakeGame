@@ -1,4 +1,4 @@
 # M1_SnakeGame
+![Screenshot (46)](https://user-images.githubusercontent.com/92664317/153587772-6bd59a22-60df-46a5-9bef-31c684994fea.png)
 
-![Screenshot (46)](https://user-images.githubusercontent.com/92664317/153585264-1b3650b7-4bbd-4df3-bd7a-fd8431926ee3.png)
 
