@@ -6,6 +6,10 @@ int i, j, h = 24, w = 24;
 static int gameover;
 int score;
 int x, y, a, b, flag;
+/**
+ * @brief 
+ * 
+ */
 
 void set()
 {
