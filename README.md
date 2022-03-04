@@ -1,4 +1,17 @@
 # M1_SnakeGame
+##Introduction
+This is a Snake Game which i implement in  C language. Inspired by Arcade Snake Game.
+
+| Folder | About| 
+| -----------| --------------- |
+|0_Certificates| All Certificates are in this Folder|
+|1_Requirement	|All Requirement are here|
+|2_Architecture|	Structure of code is here|
+|3_Implementation	|Coding part is here|
+|4_TestPlanAndOutput|	Test plan is here|
+|5_Report|	Here is my Report|
+
+
 ## Badges
 
 | Codigo | C/CPPCheck | Codacy| 
@@ -7,6 +20,6 @@
 
 
 
-![Screenshot (46)](https://user-images.githubusercontent.com/92664317/153587772-6bd59a22-60df-46a5-9bef-31c684994fea.png)
+
 
 
