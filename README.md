@@ -3,8 +3,7 @@
 
 | Codiga | C/CPPCheck | 
 | -----------| --------------- |
-|![MIT License](https://api.codiga.io/project/31118/score/svg)
- |[![C/C++ CI](https://github.com/gaurav0903/M1_SnakeGame/actions/workflows/c-cpp1.yml/badge.svg)](https://github.com/gaurav0903/M1_SnakeGame/actions/workflows/c-cpp1.yml) |
+|![MIT License](https://api.codiga.io/project/31118/score/svg)|[![C/C++ CI](https://github.com/gaurav0903/M1_SnakeGame/actions/workflows/c-cpp1.yml/badge.svg)](https://github.com/gaurav0903/M1_SnakeGame/actions/workflows/c-cpp1.yml) |
 
 
 
