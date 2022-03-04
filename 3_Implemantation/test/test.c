@@ -23,8 +23,7 @@ int main()
 void test_searchrecords(void)
 {
     char name[20]="Gaurav";
-    int i=50;
-    TEST_ASSERT_EQUAL(50, i);
+    
     TEST_ASSERT_EQUAL("Gaurav", name);
 
    
