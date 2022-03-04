@@ -25,6 +25,7 @@ void test_searchrecords(void)
     char name[20]="Gaurav";
     
     TEST_ASSERT_EQUAL("Gaurav", name);
+    
 
    
 }
