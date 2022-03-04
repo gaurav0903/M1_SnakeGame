@@ -14,9 +14,9 @@ This is a Snake Game which i implement in  C language. Inspired by Arcade Snake 
 
 ## Badges
 
-| Codigo | C/CPPCheck | Codacy| 
-| -----------| --------------- |--------------- |
-|![MIT License](https://api.codiga.io/project/31118/score/svg)|[![C/C++ CI](https://github.com/gaurav0903/M1_SnakeGame/actions/workflows/c-cpp1.yml/badge.svg)](https://github.com/gaurav0903/M1_SnakeGame/actions/workflows/c-cpp1.yml) |[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b4a96a0f379a4d67a860a1756388143f)](https://www.codacy.com/gh/gaurav0903/M1_SnakeGame/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gaurav0903/M1_SnakeGame&amp;utm_campaign=Badge_Grade)|
+| Codiga Code Score | C/CPPCheck | Codacy| Codiga code Grade |
+| -----------| --------------- |--------------- |--------------- |
+|![MIT License](https://api.codiga.io/project/31118/score/svg)|[![C/C++ CI](https://github.com/gaurav0903/M1_SnakeGame/actions/workflows/c-cpp1.yml/badge.svg)](https://github.com/gaurav0903/M1_SnakeGame/actions/workflows/c-cpp1.yml) |[![Codacy Badge](https://app.codacy.com/project/badge/Grade/b4a96a0f379a4d67a860a1756388143f)](https://www.codacy.com/gh/gaurav0903/M1_SnakeGame/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gaurav0903/M1_SnakeGame&amp;utm_campaign=Badge_Grade)|![MIT License](https://api.codiga.io/project/31118/status/svg) |
 
 
 
