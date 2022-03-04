@@ -1,5 +1,5 @@
 # M1_SnakeGame
-##Introduction
+## Introduction
 This is a Snake Game which i implement in  C language. Inspired by Arcade Snake Game.
 
 | Folder | About| 
